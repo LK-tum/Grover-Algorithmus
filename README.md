@@ -9,6 +9,7 @@ Hier wird der Grover-Algorithmus mithilfe von Python in einem zwei Qubit System 
 1. Superposition
 2. Orakel
 3. Inversionsspiegelung
+
 durchgeführt. 
 ## Grover_3_Qubit
 Hier wird der Grover-Algorithmus mithilfe von Python in einem drei Qubit System simuliert. Zudem werden alle notwendigen Gatter aufgezählt und erklärt.
@@ -16,4 +17,5 @@ Danach werden die drei Schritte
 1. Superposition
 2. Orakel
 3. Inversionsspiegelung
+
 durchgeführt, sowie eine weitere Iteration von Orakel und Inversionsspiegelung. Dies wird benötigt, um das optimale Ergebnis zu erreichen. 
